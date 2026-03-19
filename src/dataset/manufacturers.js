@@ -11,6 +11,18 @@ const manufacturers = [
       id: 3,
       name: 'Xiaomi',
    },
+   {
+      id: 4,
+      name: 'NVIDEA',
+   },
+   {
+      id: 5,
+      name: 'AMD',
+   },
+   {
+      id: 6,
+      name: 'Intel',
+   },
 ]
 
 export { manufacturers }
